@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/app/pages", {data:[{}],fetch:{},mutations:void 0});
