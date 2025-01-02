@@ -1,0 +1,23 @@
+[
+  {
+    "name": "app-home",
+    "path": "/app/home",
+    "component": "C:\\\\Users\\\\New PC.DESKTOP-3T577AH\\\\Desktop\\\\deploymovie-main\\\\pages\\\\app\\\\home.vue",
+    "chunkName": "pages/app/home",
+    "_name": "_0de3abc3"
+  },
+  {
+    "name": "app-pages",
+    "path": "/app/pages",
+    "component": "C:\\\\Users\\\\New PC.DESKTOP-3T577AH\\\\Desktop\\\\deploymovie-main\\\\pages\\\\app\\\\pages.vue",
+    "chunkName": "pages/app/pages",
+    "_name": "_68ab0e10"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\New PC.DESKTOP-3T577AH\\\\Desktop\\\\deploymovie-main\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_054ee956"
+  }
+]

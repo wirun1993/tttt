@@ -1,0 +1,45 @@
+.fixed-bottom {
+    position: fixed !important;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+@media (max-width: 767px) {
+    .elementor-154 .elementor-element.elementor-element-811538f img {
+        width: 165px;
+    }
+    .fixed-bottom {
+        position: relative !important;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        z-index: 1030;
+    }
+    .detail-body {
+        margin-bottom: 100px;
+    }
+    .pb-mobile {
+        padding-bottom: 3rem !important;
+    }
+    .offcanvas-end {
+        top: 0;
+        right: 0px;
+        /* left: 0px; */
+        width: 307px;
+        border-left: 1px solid rgba(0, 0, 0, 0.2);
+        transform: translateX(100%);
+    }
+    .flex-scroll {
+        display: flex;
+        flex-wrap: nowrap;
+        /* margin-right: -15px; */
+        /* margin-left: -15px; */
+        overflow: scroll;
+    }
+}
+
+.elementor-154 .elementor-element.elementor-element-811538f img {
+    width: 140px;
+}
